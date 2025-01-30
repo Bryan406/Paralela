@@ -1,0 +1,2 @@
+﻿  FiltroDesefonqueRadial.cpp
+LINK : fatal error LNK1104: no se puede abrir el archivo 'opencv_world4100d.lib'
